@@ -1,0 +1,18 @@
+DELETE SCRIPT Q_VOL_NBFILES
+Y
+DEFINE SCRIPT Q_VOL_NBFILES DESC="Nb files on volume $1"
+UPDATE SCRIPT Q_VOL_NBFILES "/*********************************************************************/"
+UPDATE SCRIPT Q_VOL_NBFILES "/* Q_VOL_NBFILES                                                     */"
+UPDATE SCRIPT Q_VOL_NBFILES "/*                                                                   */"
+UPDATE SCRIPT Q_VOL_NBFILES "/* Affiche le nombre de fichiers presents sur le volume $1           */"
+UPDATE SCRIPT Q_VOL_NBFILES "/*                                                                   */"
+UPDATE SCRIPT Q_VOL_NBFILES "/* Usage:                                                            */"
+UPDATE SCRIPT Q_VOL_NBFILES "/*   run Q_VOL_NBFILES VOL3246                                       */"
+UPDATE SCRIPT Q_VOL_NBFILES "/*                                                                   */"
+UPDATE SCRIPT Q_VOL_NBFILES "/* $Author: david_rigaudiere $                                       */"
+UPDATE SCRIPT Q_VOL_NBFILES "/* $Revision: 1.1 $                                                  */"
+UPDATE SCRIPT Q_VOL_NBFILES "/* $Date: 2003/09/12 18:50:48 $                                      */"
+UPDATE SCRIPT Q_VOL_NBFILES "/*********************************************************************/"
+UPDATE SCRIPT Q_VOL_NBFILES "SELECT COUNT(*) as NB_FILES -"
+UPDATE SCRIPT Q_VOL_NBFILES "FROM   contents -"
+UPDATE SCRIPT Q_VOL_NBFILES "WHERE  volume_name='$1'"
