@@ -1,0 +1,12 @@
+do_start_tsm ()
+{
+    do_startup_checklist
+    # Generation de la ligne de commande pour l'utilitaire d'archivage de l'actlog
+    for i in 1 2 3 4 5
+    do
+        dsmulog_parms=$dsmulog_parms"${tsm_log_folder}/dsmserv${i}.log "
+    done
+
+    full_command="nohup dsmserv -u $tsm_user -i $tsm_dir_instance 2>&1 | nohup /opt/tivoli/tsm/server/bin/dsmulog $dsmulog_parms &"
+    su - $tsm_user -c "cd $tsm_dir_instance; $full_command"
+}
