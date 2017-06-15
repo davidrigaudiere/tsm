@@ -1,0 +1,76 @@
+IBM TSM FTP
+http://ftp.software.ibm.com/storage/tivoli-storage-management/
+
+IBM Au sujet du changement de nom TSM / ISP
+http://www-01.ibm.com/support/docview.wss?uid=swg21963634
+
+IBM Tivoli Storage Manager Supported Operating Systems
+TSM Server v6.3 et v7.1 / TSM Client v6.4 et v7.1
+http://www-01.ibm.com/support/docview.wss?uid=swg21994042
+
+IBM Spectrum Protect Supported Operating Systems
+Spectrum Protect Server v8.1, Spectrum Protect Client v8.1
+http://www-01.ibm.com/support/docview.wss?uid=swg21243309
+
+IBM Understanding Tivoli Storage Manager Version 6 and 7 recovery log behavior
+http://www-01.ibm.com/support/docview.wss?uid=swg21663695
+
+IBM File Versioning, File Retention and File Expiration Explained
+http://www-01.ibm.com/support/docview.wss?uid=swg21224145
+
+IBM Classic Restore versus No Query Restore (NQR)
+http://www-01.ibm.com/support/docview.wss?uid=swg21639158
+
+IBM Binding a node to a different management class
+http://www-01.ibm.com/support/docview.wss?uid=swg21417815
+
+IBM IC49488: TSM DOCUMENTATION FOR REBINDING OBJECTS NEEDS TO BE CLARIFIED.
+http://www-01.ibm.com/support/docview.wss?uid=swg1IC49488
+
+IBM Spectrum Protect (formerly Tivoli Storage Manager) Supported Devices for AIX®, HP-UX, Solaris, and Windows®
+https://www-01.ibm.com/software/sysmgmt/products/support/IBM_TSM_Supported_Devices_for_AIXHPSUNWIN.html
+
+IBM Spectrum Protect (formerly Tivoli Storage Manager) Supported Devices for Linux
+https://www-01.ibm.com/software/sysmgmt/products/support/IBM_TSM_Supported_Devices_for_Linux.html
+
+IBM Spectrum Protect Wiki
+https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/Tivoli%20Storage%20Manager
+
+IBM Spectrum Protect Blueprints
+https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/Tivoli%20Storage%20Manager/page/IBM%20Spectrum%20Protect%20Blueprints
+
+IBM Spectrum Protect Best Practices
+https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/Tivoli%20Storage%20Manager/page/Best%20Practices
+
+IBM TSM Performance & Testing
+https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/Tivoli%20Storage%20Manager/page/Performance%20and%20Testing
+
+Modified Instructions for Complete Restores of Windows Systems with the TSM Client: Bare Metal Restore (BMR), System State Restore, Windows System Object Restore
+http://www-01.ibm.com/support/docview.wss?uid=swg21164812
+
+VSS et TSM
+https://www.ibm.com/developerworks/tivoli/library/t-tsm-vss/
+
+TSM Implementation Guide
+http://www.redbooks.ibm.com/Redbooks.nsf/RedpieceAbstracts/sg245416.html?Open
+
+TSM Concepts
+http://www.redbooks.ibm.com/abstracts/sg244877.html?Open
+
+Disaster Recovery Strategies with TSM
+ftp://ftp.software.ibm.com/linux/bpresource/redbooks/SG246844.pdf
+
+Pot pourri du backup
+http://tsm-symposium.oucs.ox.ac.uk/2007/papers/Andy%20Raibeck%20-%20Potpourri%20du%20Backup.pdf
+
+TSM SQL
+http://thobias.org/tsm/sql/
+
+LBTEST
+http://www-01.ibm.com/support/docview.wss?uid=swg21326205
+
+IBM Tape Diagnostic Tool (ITDT) v9.0
+http://www-01.ibm.com/support/docview.wss?uid=ssg1S4000662
+
+Server Messages and Error Codes
+https://www.ibm.com/support/knowledgecenter/SSTFZR_7.1.0/com.ibm.itsm.msgs.server.doc/b_msgs_server.pdf
